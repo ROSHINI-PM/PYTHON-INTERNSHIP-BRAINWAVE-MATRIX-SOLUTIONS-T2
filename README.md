@@ -1,5 +1,5 @@
 PYTHON-INTERNSHIP-BRAINWAVE-MATRIX-SOLUTIONS-T2
-** Inventory Management System**
+ Inventory Management System
  
 This is a GUI-based Inventory Management System built with Python, using Tkinter for the graphical interface and SQLite for local data storage. It allows users to track stock levels, manage products, and generate summary reports, all within a user-friendly interface.
 
